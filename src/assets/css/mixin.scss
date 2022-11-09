@@ -1,0 +1,21 @@
+@mixin  flex-center{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+
+}
+@mixin btn {
+    font-family: 'Gilroy';
+    font-weight: 600;
+    font-style: normal;
+    border: 1px solid #FFFFFF;
+    border-radius: 24.5px;
+    background: none;
+    color: white;
+    padding: 12px 20px;
+    font-size: 17px;
+    text-transform: uppercase;
+    img{ 
+        margin-left: 15px;
+    }
+}

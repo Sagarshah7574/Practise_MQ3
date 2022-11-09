@@ -1,0 +1,66 @@
+@import "./colors.scss";
+
+h1 {
+    font-size: 85px;
+    font-weight: 700;
+    line-height: 1;
+    margin: 0px;
+  }
+  h2 {
+    font-size: 50px;
+    letter-spacing: 1.5px;
+    line-height: 1;
+    font-weight: 700;
+    margin: 0px;
+  }
+  h3 {
+    font-size: 40px;
+    line-height: 1;
+    letter-spacing: 0px;
+    font-weight: 700;
+    margin: 0px;
+    
+  }
+  h4 {
+    font-size: 24px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    line-height: 1;
+    margin: 0px;
+  }
+  h5 {
+    font-size: 20px;
+    letter-spacing: 0px;
+    font-weight: 600;
+    line-height: 1;
+    margin: 0px;
+  }
+  p {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.7;
+    letter-spacing: 1.1px;
+  }
+  a {
+    font-size: 20px;
+    letter-spacing: 0.4px;
+    line-height: 1;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    font-weight: 400;
+  }
+  span {
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 400;
+  }
+  .spacer {
+    padding: 80px 0px !important;
+  }
+  .container {
+  max-width: 1430px; //container 1415px
+  width: 100%;
+  margin: 0 auto;
+  padding: 0px 15px;
+  }
+
